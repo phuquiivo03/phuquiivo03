@@ -38,9 +38,9 @@ contributed to award-winning projects, showcasing expertise in on-chain data sto
 [<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
 [<img align="left" alt="FaceBook | Facebook" width="40px" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" />][facebook]
 
-[x]: https://twitter.com/AlexLamCrypBoy
-[facebook]: https://www.facebook.com/profile.php?id=100015902082971
-[linkedin]: https://www.linkedin.com/in/lam-thanh-phuc-alex/
+[x]: https://x.com/qui_vo46670
+[facebook]: https://www.facebook.com/profile.php?id=100022928704167&locale=vi_VN
+[linkedin]: https://www.linkedin.com/in/qui-vo-12921a293/
 
 `
 ---

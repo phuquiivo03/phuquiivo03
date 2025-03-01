@@ -9,7 +9,7 @@
 
 ---
 
-Senior student at Ton Duc Thang University with 2+ years in frontend development and 1 year in blockchain. Proficient in React.js for
+A fullstack developer with 2+ years in frontend development and 1 year in blockchain. Proficient in React.js for
 building responsive UIs and integrating Web3.js for blockchain functionality. Experienced in smart contract development on Near Protocol,
 Sui, and Aptos using Solidity and Move. Skilled in cross-chain solutions, including Polygon and Binance Smart Chain integration. Successfully
 contributed to award-winning projects, showcasing expertise in on-chain data storage and trading platforms.

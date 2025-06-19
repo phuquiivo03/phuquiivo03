@@ -9,17 +9,25 @@
 
 ---
 
-A fullstack developer with 2+ years in frontend development and 1 year in blockchain. Proficient in React.js for
-building responsive UIs and integrating Web3.js for blockchain functionality. Experienced in smart contract development on Near Protocol,
-Sui, and Aptos using Solidity and Move. Skilled in cross-chain solutions, including Polygon and Binance Smart Chain integration. Successfully
-contributed to award-winning projects, showcasing expertise in on-chain data storage and trading platforms.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/phuquiivo03)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qui-vo-12921a293/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://x.com/qui_vo46670)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:phuquivo03.cb@gmail.com)
 
-💻 Passionate about **Frontend Development** and **Blockchain Technology**, with over 2 years of experience in frontend and 1 year in blockchain development.  
+##
+
+By building decentralized applications using modern technologies like React, Move, and Rust, and leveraging expertise in smart contracts, Web3 integrations, and foundational DevOps practices, I contribute to scalable, impactful blockchain projects. Recognized through multiple hackathon awards, I am driven by a passion for innovation and continuously seek to deepen my skills in the evolving Web3 space.
+
+💻 Passionate Fullstack Developer with a strong focus on blockchain technology, bringing over 2 years of experience in frontend development and hands-on backend and smart contract experience across multiple blockchain platforms.
 
 
 
 ## 🧰 Skills and Technologies  
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
+<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Ftypescript.png&w=96&q=75" />
+<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src= "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"/>
+<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" />
+<img align="left" alt="GoogleCloud" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Forther%2Fubuntu.png&w=96&q=75" />
@@ -27,23 +35,44 @@ contributed to award-winning projects, showcasing expertise in on-chain data sto
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Fnext.png&w=96&q=75" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Ftailwind.png&w=96&q=75" />
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Ftypescript.png&w=96&q=75" />
 <br />
 
-## 🤳 Connect with me:
+### Software Development
 
-[<img align="left" alt="Twitter | Twitter" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" />][x]
-[<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
-[<img align="left" alt="FaceBook | Facebook" width="40px" src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" />][facebook]
+- Languages: JavaScript, TypeScript, Move, Rust, Java, C#
 
-[x]: https://x.com/qui_vo46670
-[facebook]: https://www.facebook.com/profile.php?id=100022928704167&locale=vi_VN
-[linkedin]: https://www.linkedin.com/in/qui-vo-12921a293/
+- Backend: NestJS, Express.js, Axum, ASP.NET
 
-`
----
+- Frontend: React.js, Next.js
+
+- DevOps: AWS, Google Cloud, Kubernetes, CI/CD (GitHub Actions), Web Server Configuration
+  
+### Blockchain Development
+
+- Smart Contract Development (Move on Aptos & Sui, Solana)
+
+- Web3 Integration using libraries like Web3.js and wallet adapters
+
+- Blockchain Architecture & Flow Automation Design
+
+- DApp Development on Aptos, Sui, NEAR, and Solana
+
+### API & System Integration
+- RESTful API Design & Management
+
+- Server Configuration & Load Balancing
+
+- Web Service Integration with Smart Contracts
+
+### Microservices & Distributed Systems
+- Microservice Architecture using NestJS and Axum
+
+- Event-Driven Design with basic cloud orchestration
+
+- CI/CD Pipelines for smart contract and backend services
 
 
+
+## 
 🌟 *"Building the future with code and innovation."*

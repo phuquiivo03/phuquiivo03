@@ -22,21 +22,7 @@ By building decentralized applications using modern technologies like React, Mov
 
 
 
-## 🧰 Skills and Technologies  
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Ftypescript.png&w=96&q=75" />
-<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src= "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"/>
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146074.png" />
-<img align="left" alt="GoogleCloud" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Forther%2Fubuntu.png&w=96&q=75" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Fnext.png&w=96&q=75" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://my-portfolio-psi-murex-66.vercel.app/_next/image?url=%2Flogo%2Ffrontend%2Ftailwind.png&w=96&q=75" />
-<br />
+
 
 ### Software Development
 
